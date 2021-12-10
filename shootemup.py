@@ -126,7 +126,7 @@ class Bullet(pygame.sprite.Sprite):
         self.rect.center = coords
 
         self.vel_x = 3
-        
+
 
 def main() -> None:
     """Driver of the Python script"""
